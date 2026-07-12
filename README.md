@@ -17,6 +17,6 @@ I'm Tyler Burke, a student at Brigham Young University-Idaho interested in Proje
 
 ## Let's Connect!
 
-- Here is my [LinkedIn] https://www.linkedin.com/in/tyler-burke-aa380631b/
+- Here is my LinkedIn: https://www.linkedin.com/in/tyler-burke-aa380631b/
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+Feel free to explore my repositories and don't hesitate to reach out.
